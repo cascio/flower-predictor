@@ -1,6 +1,6 @@
 # flower-predictor
 
-This project uses Tensorflow2.0 to predict what kind of flower is in an image.
+This project uses Tensorflow2.0 to predict the type of flower in an image. Dataset is 'tf_flowers' pulled with tensorflow_datasets. Transfer learning is applied by loading the pre-trained MobileNetV2 model with tensorflow_hub.
 
 ## Getting Started
 
