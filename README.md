@@ -65,3 +65,6 @@ Previously trained Keras h5 model weights are used to predict which flower is in
 ```
 $ python predict_with_h5_model.py
 ```
+
+Here is an example:
+(https://github.com/cascio/flower-predictor/blob/master/0.png?raw=true)
