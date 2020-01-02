@@ -67,4 +67,4 @@ $ python predict_with_h5_model.py
 ```
 
 Here is an example:
-(https://github.com/cascio/flower-predictor/blob/master/0.png?raw=true)
+![](https://github.com/cascio/flower-predictor/blob/master/0.png?raw=true)
