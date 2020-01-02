@@ -10,6 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```
 $ virtualenv --python=/c/users/michael.cascio/appdata/local/programs/python/python37/python ./venv
+
 Running virtualenv with interpreter C:/users/michael.cascio/appdata/local/programs/python/python37/python.exe
 Already using interpreter C:\users\michael.cascio\appdata\local\programs\python\python37\python.exe
 Using base prefix 'C:\\users\\michael.cascio\\appdata\\local\\programs\\python\\python37'
@@ -19,6 +20,7 @@ done.
 ```
 ```
 $ python
+
 Python 3.7.6 (tags/v3.7.6:43364a7ae0, Dec 19 2019, 00:42:30) [MSC v.1916 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
@@ -29,8 +31,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 What packages are needed to run the code
 
 ```
-git clone git@github.com:cascio/learning-tf.git
-pip install -r requirements.txt
+$ git clone git@github.com:cascio/learning-tf.git
+$ pip install -r requirements.txt
 ```
 
 ## Files
