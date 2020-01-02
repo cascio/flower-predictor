@@ -1,4 +1,7 @@
 import tensorflow as tf
+import os
+
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 is_built_with_cuda = tf.test.is_built_with_cuda()
 print(is_built_with_cuda)
